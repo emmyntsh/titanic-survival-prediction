@@ -18,8 +18,6 @@ The models were first evaluated using baseline configurations before improving t
 
 ## Dataset
 
-## Dataset
-
 This project uses the dataset from Kaggle's **Titanic - Machine Learning from Disaster** competition.
 
 The dataset consists of:
