@@ -18,11 +18,19 @@ The models were first evaluated using baseline configurations before improving t
 
 ## Dataset
 
-The project uses the Titanic dataset from the Kaggle Titanic: Machine Learning from Disaster competition.
+## Dataset
 
-The training dataset contains 891 passenger records, with `Survived` as the target variable.
+This project uses the dataset from Kaggle's **Titanic - Machine Learning from Disaster** competition.
 
-The dataset files are not included in this repository. To run the notebook, download `train.csv` and `test.csv` from the Kaggle competition and place them in the same directory as the notebook.
+The dataset consists of:
+- `train.csv` — 891 passenger records including the `Survived` target variable
+- `test.csv` — 418 passenger records without the target variable
+
+The dataset is not redistributed in this repository. It can be downloaded from the official Kaggle competition page:
+
+**Dataset:** [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/data)
+
+After downloading the data, place `train.csv` and `test.csv` in the same directory as the notebook before running it.
 
 ## Project Workflow
 
